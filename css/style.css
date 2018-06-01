@@ -1,0 +1,49 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+button a
+{
+	color:white;
+}
+canvas
+{
+	margin:auto;
+}
+footer {
+	flex: 1 0 auto;
+}
+nav {
+	background-color: #9fa8da;
+}
+footer.page-footer {
+	background-color: #9fa8da;
+}
+.rowSpe {
+	margin-left: 0px; 
+    margin-right: 0px; 
+	margin-top:30px;
+}
+i.amazing {
+	font-size:90px;
+	padding:20px;
+}
+
+.button2 {
+	transition:0.7s;
+	color:#26a69a;
+	padding-left:10px;
+	padding-right:10px
+}
+.button2:hover {
+	transition:0.7s;
+	background-color:#26a69a;
+	border-radius:4px;
+	color:white;
+	box-shadow: 2px 2px 7px grey;
+}
+nav ul a {
+	font-size: 1.3em;
+}
+
